@@ -1,0 +1,47 @@
+https://github.com/omarfaruqe/ProfessionalCode
+
+STEP
+#1.              
+Update code style for
+better consistency.
+
+
+STEP
+#2.              
+Application now
+terminates early if the number of arguments passed into it is wrong, fix it.
+
+
+STEP
+#3.              
+Makes improvements to
+variable names
+
+STEP
+#4. Refactors duplicate file
+read and write logic into methods
+
+
+STEP
+#5. Replaces string literals
+with constants, storing those constants in a new class called Constants.java
+
+STEP
+#6.              
+Remove Temporary
+variables
+
+
+STEP
+#7.              
+Eliminates the ‘done’
+control-flow variable. Adds better response for search operation.
+
+
+STEP
+#8.              
+Simplifies the logic
+behind the count operation
+
+step
+#9 Add more comments and makes more naming improvements.
